@@ -12887,7 +12887,7 @@ body.force-hamburger .navbar-sidepanel .dropdown-menu > li > a {
   -webkit-transform: translate(0.5px, 0);
 }
 .carousel-control .icon-prev {
-  background-image: url("../../../sp-bootstrap.global.ssl.fastly.net/8.2.4/images/icon-chevron-left.png");
+  background-image: url("https://sp-bootstrap.global.ssl.fastly.net/8.2.4/images/icon-chevron-left.png");
   background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent)), url("https://sp-bootstrap.global.ssl.fastly.net/8.2.4/images/icon-chevron-left.svg");
   background-image: linear-gradient(transparent, transparent), url("https://sp-bootstrap.global.ssl.fastly.net/8.2.4/images/icon-chevron-left.svg");
   left: 0;
@@ -12896,7 +12896,7 @@ body.force-hamburger .navbar-sidepanel .dropdown-menu > li > a {
   content: '';
 }
 .carousel-control .icon-next {
-  background-image: url("../../../sp-bootstrap.global.ssl.fastly.net/8.2.4/images/icon-chevron-right.png");
+  background-image: url("https://sp-bootstrap.global.ssl.fastly.net/8.2.4/images/icon-chevron-right.png");
   background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent)), url("https://sp-bootstrap.global.ssl.fastly.net/8.2.4/images/icon-chevron-right.svg");
   background-image: linear-gradient(transparent, transparent), url("https://sp-bootstrap.global.ssl.fastly.net/8.2.4/images/icon-chevron-right.svg");
   right: 0;
@@ -13107,7 +13107,7 @@ body {
   color: #000;
 }
 .ajax-spinner {
-  background-image: url(http://www.scdn.co/i/forms/ajax-spinner.svg);
+  background-image: url(/i/forms/ajax-spinner.svg);
   background-size: contain;
   opacity: .8;
   -webkit-animation: rotate 1.5s infinite steps(12);
@@ -13867,7 +13867,7 @@ body {
 }
 .page-googlehome .wrap .jumbotron-voice-commands .container-fluid,
 .page-amazonalexa .wrap .jumbotron-voice-commands .container-fluid {
-  background-image: url('../../i/landing/amazonalexa/voice-bg.jpg');
+  background-image: url('/i/landing/amazonalexa/voice-bg.jpg');
   margin-top: 185px;
   min-height: 232px;
   position: absolute;
@@ -13888,13 +13888,13 @@ body {
 @media (max-width: 991px) {
   .page-connect .wrap .jumbotron-hero {
     background-color: #2e46ba;
-    background-image: url('../../i/connect/header-spikes-sm.jpg');
+    background-image: url('/i/connect/header-spikes-sm.jpg');
     background-size: cover;
   }
 }
 @media (max-width: 767px) {
   .page-connect .wrap .jumbotron-hero {
-    background-image: url('../../i/connect/header-spikes-xs.jpg');
+    background-image: url('/i/connect/header-spikes-xs.jpg');
   }
 }
 .page-connect .wrap .jumbotron-hero img {
@@ -14016,18 +14016,18 @@ body {
 }
 .page-connect .wrap .jumbotron-premium {
   background-color: #4b47b7;
-  background-image: url('../../i/connect/premium-bg.jpg');
+  background-image: url('/i/connect/premium-bg.jpg');
   padding-bottom: 4.1em;
   padding-top: 30px;
 }
 @media (min-width: 1200px) {
   .page-connect .wrap .jumbotron-premium {
-    background-image: url('../../i/connect/premium-bg-lg.png');
+    background-image: url('/i/connect/premium-bg-lg.png');
   }
 }
 @media (max-width: 991px) {
   .page-connect .wrap .jumbotron-premium {
-    background-image: url('../../i/connect/premium-bg-sm.png');
+    background-image: url('/i/connect/premium-bg-sm.png');
   }
 }
 .page-connect .wrap .jumbotron-premium p {
@@ -14042,11 +14042,11 @@ body {
   background: #1E3264;
 }
 .page-playstation .wrap .bg-main-img {
-  background-image: url('../../i/playstation/playstation-header-bg-md.jpg');
+  background-image: url('/i/playstation/playstation-header-bg-md.jpg');
 }
 @media (min-width: 1200px) {
   .page-playstation .wrap .bg-main-img {
-    background-image: url('../../i/playstation/playstation-header-bg-lg.jpg');
+    background-image: url('/i/playstation/playstation-header-bg-lg.jpg');
   }
 }
 .page-playstation .wrap .jumbotron-hero {
@@ -14055,13 +14055,13 @@ body {
 @media (max-width: 991px) {
   .page-playstation .wrap .jumbotron-hero {
     background: #1E3264;
-    background-image: url('../../i/playstation/playstation-header-bg-sm.jpg');
+    background-image: url('/i/playstation/playstation-header-bg-sm.jpg');
     background-size: cover;
   }
 }
 @media (max-width: 767px) {
   .page-playstation .wrap .jumbotron-hero {
-    background-image: url('../../i/playstation/playstation-header-bg-xs.jpg');
+    background-image: url('/i/playstation/playstation-header-bg-xs.jpg');
   }
 }
 .page-playstation .wrap .jumbotron-hero h1 {
@@ -14119,23 +14119,23 @@ body {
 }
 .page-playstation .wrap .jumbotron-premium {
   background-color: #1E3264;
-  background-image: url('../../i/playstation/playstation-premium-bg-md.png');
+  background-image: url('/i/playstation/playstation-premium-bg-md.png');
   padding-bottom: 50px;
   padding-top: 60px;
 }
 @media (min-width: 1200px) {
   .page-playstation .wrap .jumbotron-premium {
-    background-image: url('../../i/playstation/playstation-premium-bg-lg.png');
+    background-image: url('/i/playstation/playstation-premium-bg-lg.png');
   }
 }
 @media (max-width: 991px) {
   .page-playstation .wrap .jumbotron-premium {
-    background-image: url('../../i/playstation/playstation-premium-bg-sm.png');
+    background-image: url('/i/playstation/playstation-premium-bg-sm.png');
   }
 }
 @media (max-width: 767px) {
   .page-playstation .wrap .jumbotron-premium {
-    background-image: url('../../i/playstation/playstation-premium-bg-xs.png');
+    background-image: url('/i/playstation/playstation-premium-bg-xs.png');
   }
 }
 .page-playstation .wrap .jumbotron-premium p.legal a {
@@ -14164,11 +14164,11 @@ body {
   background: #1E3264;
 }
 .page-xbox .wrap .bg-main-img {
-  background-image: url('../../i/xbox/xbox-header-bg-md.jpg');
+  background-image: url('/i/xbox/xbox-header-bg-md.jpg');
 }
 @media (min-width: 1200px) {
   .page-xbox .wrap .bg-main-img {
-    background-image: url('../../i/xbox/xbox-header-bg-lg.jpg');
+    background-image: url('/i/xbox/xbox-header-bg-lg.jpg');
   }
 }
 .page-xbox .wrap .jumbotron-hero {
@@ -14177,13 +14177,13 @@ body {
 @media (max-width: 991px) {
   .page-xbox .wrap .jumbotron-hero {
     background: #1E3264;
-    background-image: url('../../i/xbox/xbox-header-bg-sm.jpg');
+    background-image: url('/i/xbox/xbox-header-bg-sm.jpg');
     background-size: cover;
   }
 }
 @media (max-width: 767px) {
   .page-xbox .wrap .jumbotron-hero {
-    background-image: url('../../i/xbox/xbox-header-bg-xs.jpg');
+    background-image: url('/i/xbox/xbox-header-bg-xs.jpg');
   }
 }
 .page-xbox .wrap .jumbotron-hero h1 {
@@ -14934,7 +14934,7 @@ p.p-mobile {
     margin-bottom: 0;
     margin-bottom: -54px;
     top: -54px;
-    background-image: url(http://www.scdn.co/i/signup/circle-bg-mobile.svg);
+    background-image: url(/i/signup/circle-bg-mobile.svg);
   }
 }
 @media (min-width: 768px) {
@@ -14944,7 +14944,7 @@ p.p-mobile {
     margin-bottom: 0;
     margin-bottom: -54px;
     top: -54px;
-    background-image: url(http://www.scdn.co/i/signup/circle-bg-larger-screens.svg);
+    background-image: url(/i/signup/circle-bg-larger-screens.svg);
   }
 }
 @media (min-width: 992px) {
